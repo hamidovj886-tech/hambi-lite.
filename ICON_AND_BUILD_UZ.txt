@@ -1,0 +1,7 @@
+Hambi Lite — sariq-qora ikonka qo‘shilgan Android loyihasi.
+
+GitHub’ga yuklash: ZIP’ni oching, hambi_lite_android papkasiga kiring va uning ICHIDAGI fayl/papkalarni repository ildiziga yuklang. app, settings.gradle, build.gradle va .github papkalari ildizda bo‘lishi kerak.
+
+APK yaratish: GitHub Actions > Build Hambi Lite APK > Run workflow. Muvaffaqiyatli bo‘lsa Artifacts ichidan Hambi-Lite-APK yuklanadi.
+
+Eslatma: bu ikonka va loyiha manba kodi; APK ushbu arxiv ichida tayyor holda emas. Build jarayoni GitHub’da tekshirilishi kerak.

@@ -1,0 +1,4 @@
+APK olish: GitHub -> Actions -> Build Hambi Lite APK -> Run workflow.
+Yashil natijadan keyin workflow run sahifasidagi Artifacts bo'limidan Hambi-Lite-APK ni yuklab oling.
+Agar xato chiqsa, Build debug APK bosqichidagi eng pastki qizil xato matnini yuboring.
+Loyiha papkasining ICHIDAGI fayllarni repozitoriyangizning root qismiga joylashtiring.
